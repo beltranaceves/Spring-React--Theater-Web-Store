@@ -1,0 +1,11 @@
+export const GET_CARTELERA_COMPLETED = "project/cartelera/getCarteleraCompleted";
+export const GET_CINES_COMPLETED = "project/cartelera/getCinesCompleted";
+export const GET_CIUDADES_COMPLETED = "project/cartelera/getCiudadesCompleted";
+export const FIND_PELICULA_BY_ID_COMPLETED = "project/cartelera/findPeliculaByIdCompleted";
+export const CLEAR_PELICULA = "project/cartelera/clearPelicula";
+export const FIND_SESION_BY_ID_COMPLETED = "project/cartelera/findSesionByIdCompleted";
+export const FIND_CRITICA_BY_PELICULA_COMPLETED = "project/cartelera/findCriticasByPeliculaCompleted";
+export const CLEAR_CRITICAS_SEARCH = "project/cartelera/clearCriticasSearch";
+export const CLEAR_SESION = "project/cartelera/clearSesion";
+export const CLEAR_CARTELERA = "project/cartelera/clearCartelera";
+export const PUBLISH_COMPLETED = "project/cartelera/publishCompleted";

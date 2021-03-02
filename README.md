@@ -1,4 +1,6 @@
-# PA Project 
+# PA Project
+Movie theater website built with Spring Boot/JPA and React/Redux
+
 
 ## Requirements
 
